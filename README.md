@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirito-Excalibur
 - 👀 I’m interested in ...video games
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...mobile developement
+- 🌱 I’m currently learning ...AngularJS
+- 💞️ I’m looking to collaborate on ...Web developement
 - 📫 How to reach me ...just DM
 
 <!---
