@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kirito-Excalibur
+- 👋 Hi, I’m Kirito
 - 👀 I’m interested in ...video games
 - 🌱 I’m currently learning ...AngularJS
 - 💞️ I’m looking to collaborate on ...Web developement
