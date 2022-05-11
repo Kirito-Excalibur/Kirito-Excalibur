@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirito
 - 👀 I’m interested in ...video games
-- 🌱 I’m currently learning ...AngularJS
+- 🌱 I’m currently learning ...Database Management
 - 💞️ I’m looking to collaborate on ...Web developement
 - 📫 How to reach me ...just DM
 
