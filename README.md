@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Kirito
-- 👀 I’m interested in ...video games
-- 🌱 I’m currently learning ...Database Management
-- 💞️ I’m looking to collaborate on ...Web developement
-- 📫 How to reach me ...just DM
+## Hi, I'm Nikhil Simon Toppo
+
+ <br>
+[<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=deno" />](https://www.google.com)
+<br>
+
+A FullStack Web Developer from India, I hunger for interesting things to build and contribute to the ever growing techverse.
 
 <!---
 Kirito-Excalibur/Kirito-Excalibur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
