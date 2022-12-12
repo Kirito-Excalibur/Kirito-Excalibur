@@ -10,10 +10,6 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
-<span style="display:flex">
-
-</span>
-
 ## Frameworks I am proficient in:-
 
 <hr>
