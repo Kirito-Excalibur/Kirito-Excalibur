@@ -20,10 +20,10 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
-<div style="display:flex">
+<div style="display:flex;gap:10px">
 <img style="width:100px;height:100px" src="./react.svg">
 <img style="width:100px;height:100px" src="./preact.svg">
-<img style="width:100px;height:100px" src="./deno.svg">
+<img style="width:100px;height:100px;background:white;border-radius:10px" src="./deno.svg">
 <img style="width:100px;height:100px;border-radius:10px" src="./fresh.png">
 <img style="width:100px;" src="./solidjs.svg">
 </div>
@@ -32,7 +32,7 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
-<div style="display:flex">
+<div style="display:flex;gap:10px">
 <img style="width:100px" src="./eslint.svg">
 <img style="width:100px" src="./webpack.svg" >
 <img style="width:100px" src="./figma.svg" >
@@ -43,7 +43,7 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
-<div class="display:flex">
+<div class="display:flex;gap:10px">
 <img style="width:100px" src="./mongodb.svg">
 <img style="width:100px" src="./mysql.svg">
 <img style="width:100px" src="./supabase.svg">
