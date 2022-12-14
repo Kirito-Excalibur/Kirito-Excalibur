@@ -49,7 +49,7 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 <img style="width:100px" src="./supabase.svg">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kirito-Excalibur&theme=dark&hide_border=true)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Kirito-Excalibur&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 Kirito-Excalibur/Kirito-Excalibur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
