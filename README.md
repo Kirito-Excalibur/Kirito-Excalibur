@@ -18,13 +18,13 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
-<span style="display:flex">
+<div style="display:flex">
 <img style="width:100px;height:100px" src="./react.svg">
 <img style="width:100px;height:100px" src="./preact.svg">
 <img style="width:100px;height:100px" src="./deno.svg">
 <img style="width:100px;height:100px;border-radius:10px" src="./fresh.png">
 <img style="width:100px;" src="./solidjs.svg">
-</span>
+</div>
  
 ## Technologies I use:-
 
