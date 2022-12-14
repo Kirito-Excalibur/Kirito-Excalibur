@@ -10,9 +10,11 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
+<div style="display:flex">
 <img style="width:100px" src="./js.png">
 <img style="width:100px" src="./html.png">
 <img style="width:100px" src="./css_3.png">
+</div>
 
 ## Frameworks I am proficient in:-
 
@@ -30,18 +32,22 @@ A FullStack Web Developer from India, I hunger for interesting things to build a
 
 <hr>
 
+<div style="display:flex">
 <img style="width:100px" src="./eslint.svg">
 <img style="width:100px" src="./webpack.svg" >
 <img style="width:100px" src="./figma.svg" >
-\<img style="width:100px" src="./illustrator.svg" >
+<img style="width:100px" src="./illustrator.svg" >
+</div>
 
 ## Databases I work with:-
 
 <hr>
 
+<div class="display:flex">
 <img style="width:100px" src="./mongodb.svg">
 <img style="width:100px" src="./mysql.svg">
 <img style="width:100px" src="./supabase.svg">
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kirito-Excalibur&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
