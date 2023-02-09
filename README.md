@@ -2,7 +2,7 @@
 
 <br/>
 
-[<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=deno" >](www.google.com)
+[<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=deno" >](https://megakirito.tech)
 
 A FullStack Web Developer from India, I hunger for interesting things to build and contribute to the ever growing techverse.
 
