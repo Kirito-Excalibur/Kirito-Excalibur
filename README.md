@@ -1,57 +1,32 @@
-## Hi, I'm Nikhil Simon Toppo
+# My Memorandum
+_Navigating myself with the canvas of every tear and smile into blank pages of an open book.
+Sometimes emptiness, sometimes clarity, sometimes my experience paints a new chapter of my existence embracing my emotions. Discovering the power of emotions on the unwritten pages of my life act as fuel and provide a compass for my next step but sometimes these emotional navigation falters leading astray. 
+Despite of such deviations, valuable lessons have scribed into my pages._
 
-<br/>
+## 📚 Languages
+* Javascript (Deno/Node) (6+ years)
+* Java (5+ years)
+* Kotlin (2+ years)
+* C (1 & 1/2 years)
 
-[<img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=deno" >](http://megakirito.tech)
+## 💻 What I've worked with
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
-A typical polymath
+## Special Credits💛
+I am not really a social butterfly and on several occasions I turn up rude. But I have people who love and take care of me despite all that. Still here are the following few who have reserved a special place both in my life and my heart.
 
-## Languages I Know
-
-<hr>
-
-<div style="display:flex">
-<img style="width:100px" src="./js.png">
-<img style="width:100px" src="./html.png">
-<img style="width:100px" src="./css_3.png">
-</div>
-
-## Frameworks I am proficient in:-
-
-<hr>
-
-<div style="display:flex;gap:10px">
-<img style="width:100px;height:100px" src="./react.svg">
-<img style="width:100px;height:100px" src="./preact.svg">
-<img style="width:100px;height:100px;background:white;border-radius:10px" src="./deno.svg">
-<img style="width:100px;height:100px;border-radius:10px" src="./fresh.png">
-<img style="width:100px;" src="./solidjs.svg">
-</div>
- 
-## Technologies I use:-
-
-<hr>
-
-<div style="display:flex;gap:10px">
-<img style="width:100px" src="./eslint.svg">
-<img style="width:100px" src="./webpack.svg" >
-<img style="width:100px" src="./figma.svg" >
-<img style="width:100px" src="./illustrator.svg" >
-</div>
-
-## Databases I work with:-
-
-<hr>
-
-<div class="display:flex;gap:10px">
-<img style="width:100px" src="./mongodb.svg">
-<img style="width:100px" src="./mysql.svg">
-<img style="width:100px" src="./supabase.svg">
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kirito-Excalibur&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<!---
-Kirito-Excalibur/Kirito-Excalibur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ [Goofball, The Moral Compass](https://github.com/Codegoofy4311)
