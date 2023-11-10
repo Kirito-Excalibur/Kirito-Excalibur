@@ -27,6 +27,6 @@ Despite of such deviations, valuable lessons have scribed into my pages._
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 ## Special Credits💛
-I am not really a social butterfly and on several occasions I turn up rude. But I have people who love and take care of me despite all that. Still here are the following few who have reserved a special place both in my life and my heart.
+I am not really a social butterfly and on several occasions I turn up rude. But I have people who love and take care of me despite all that. Here are the following few who have reserved a special place both in my life and my heart.
 
  [Goofball, The Moral Compass](https://github.com/Codegoofy4311)
